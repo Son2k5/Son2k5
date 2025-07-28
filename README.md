@@ -2,18 +2,11 @@
 
 I am a person on the way to become Fullstack Developer
 
-<!--
-**Son2k5/Son2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning Web Developer
 - 🤔 I’m looking for help with .Net Core
 - 💬 Ask me about React, .Net, Javascript
 - 📫 How to reach me sonct2k3@gmail.com
 - ⚡  Fun fact I come from Hanoi University's Faculty of Information Technology
--->
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/674237251340861450) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/oson.201917) 
