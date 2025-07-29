@@ -1,12 +1,18 @@
 ## Hi👋, I'm Đỗ Minh Sơn
 
-I am a person on the way to become Fullstack Developer
+I am currently in the process of becoming a full-stack developer.
 
-- 🌱 I’m currently learning Web Developer
-- 🤔 I’m looking for help with .Net Core
-- 💬 Ask me about React, .Net, Javascript
-- 📫 How to reach me sonct2k3@gmail.com
-- ⚡  Fun fact I come from Hanoi University's Faculty of Information Technology
+- I’m currently learning web development.
+
+- I’m looking for help with .NET Core
+
+- Ask me about React, .Net, and Javascript.
+
+- How to reach me sonct2k3@gmail.com
+
+- Fun fact I come from Hanoi University's Faculty of Information Technology.
+
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/674237251340861450) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/oson.201917) 
