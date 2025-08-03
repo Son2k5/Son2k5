@@ -10,7 +10,7 @@ I am currently in the process of becoming a full-stack developer.
 
 - How to reach me sonct2k3@gmail.com
 
-- Fun fact I come from Hanoi University's Faculty of Information Technology.
+- Fun fact, I come from Hanoi University's Faculty of Information Technology.
 
 
 
